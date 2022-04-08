@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GajenderI
 - 👀 I’m interested in ... Open source on IBMi
-- 🌱 I’m currently learning ... TypeScript, PureScript and Devops
-- 💞️ I’m looking to collaborate on ... a lot of things
+- 🌱 I’m currently learning ... Product development
+- 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... gajender@eradani.com
 
 <!---
